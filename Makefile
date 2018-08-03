@@ -7,5 +7,8 @@ test:
 build:
 	hackmyresume BUILD resume.json TO build/resume.all
 
+publish:
+	resume publish --theme stackoverflow2
+
 clean:
 	rm -rf build/
