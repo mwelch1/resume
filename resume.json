@@ -49,7 +49,6 @@
       "website": "https://www.virtustream.com",
       "startDate": "2016-04-01",
       "endDate": "2017-11-01",
-      "summary": "Focusing on design, development, operations and scale of platform infrastructure.",
       "highlights": [
         "Design and implement infrastructure as a service platforms based on OpenStack accross multiple sites and regions.",
         "Created solutions to rapidly deploy and scale Openstack clouds in response to customer demands.",
@@ -64,7 +63,7 @@
       "website": "https://www.emc.com",
       "startDate": "2013-05-01",
       "endDate": "2016-04-01",
-      "summary": "Focus on automation and operations of a global exabyte object storage service.",
+      "summary": "Automation, design and operations of a global exabyte object storage service.",
       "highlights": [
         "Software development enabling the remote build and operations of a global object storage platform scaled to over an exabyte of usable capacity encompassing over 20,000 servers.",
         "Orchestrated automation of rolling upgrades and maintenance activities by analyzing performance and front-end metrics to avoid customer disruption.",
@@ -133,7 +132,7 @@
       ]
     },
     {
-      "name": "/tmp",
+      "name": "/dev/urandom",
       "keywords": [
         "Python",
         "Perl",
