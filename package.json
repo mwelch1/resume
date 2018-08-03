@@ -1,0 +1,20 @@
+{
+  "name": "json-resume",
+  "version": "1.0.0",
+  "description": "Resume for Matt Welch",
+  "author": "Matt Welch",
+  "dependencies": {
+    "resume-cli": "*",
+    "hackmyresume": "*",
+    "jsonresume-theme-elegant": "*",
+    "jsonresume-theme-stackoverflow": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mwelch1/resume.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mwelch1/resume/issues"
+  },
+  "homepage": "https://github.com/mwelch1/resume"
+}
