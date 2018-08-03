@@ -4,10 +4,11 @@
   "description": "Resume for Matt Welch",
   "author": "Matt Welch",
   "dependencies": {
-    "resume-cli": "*",
     "hackmyresume": "*",
     "jsonresume-theme-elegant": "*",
-    "jsonresume-theme-stackoverflow": "*"
+    "jsonresume-theme-stackoverflow": "*",
+    "jsonresume-theme-stackoverflow2": "^1.0.6",
+    "resume-cli": "*"
   },
   "repository": {
     "type": "git",
