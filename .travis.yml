@@ -3,6 +3,6 @@ node_js:
   - "10"
 
 install:
-  - nmp install
+  - npm install
 
 script: make
