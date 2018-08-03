@@ -1,0 +1,150 @@
+{
+  "basics": {
+    "name": "Matthew Welch",
+    "label": "Software Senior Principal Engineer",
+    "picture": "https://en.gravatar.com/userimage/35313457/4ca0b4b1497c26d22b7e1dc0355c4853.jpg?size=200",
+    "email": "matt.welch@gmail.com",
+    "phone": "(813) 419-3524",
+    "summary": "Passionate engineer who loves working on complex challenges, building high performing applications and infrastructure that operate at scale and making great technology products that have a true impact.  Skilled at leading high performing teams, helping others reach their goals and making work fun.  Strives to make a difference, learn new skills, knowledge depth and learn from mistakes.",
+    "location": {
+      "city": "Tampa",
+      "countryCode": "US",
+      "region": "FL"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "intr1nsic",
+        "url": "https://twitter.com/intr1nsic"
+      },
+      {
+        "network": "Github",
+        "username": "mwelch1",
+        "url": "https://github.com/mwelch1"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "mawelch",
+        "url": "https://www.linkedin.com/in/mawelch/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Virtustream",
+      "position": "Software Engineering Manager",
+      "website": "https://www.virtustream.com",
+      "startDate": "2017-11-01",
+      "summary": "Supporting a distributed remote team of engineers leading the design, development and production operations of the next generation IaaS focusing on a company initiative to deliver a fully automated, API driven environment.",
+      "highlights": [
+        "Automate the deployment of a compute, network and storage infrastructure.",
+        "Event and policy driven configuration and remediation.",
+        "Inteligent remediation through alerts and operating metrics.",
+        "Development of a API driven storage provisioning platform."
+      ]
+    },
+    {
+      "organization": "Virtustream",
+      "position": "Software Senior Principal Engineer",
+      "website": "https://www.virtustream.com",
+      "startDate": "2016-04-01",
+      "endDate": "2017-11-01",
+      "summary": "Focusing on design, development, operations and scale of platform infrastructure.",
+      "highlights": [
+        "Design and implement infrastructure as a service platforms based on OpenStack accross multiple sites and regions.",
+        "Created solutions to rapidly deploy and scale Openstack clouds in response to customer demands.",
+        "Architected and integrated a software defined network offering using OpenContrail.",
+        "Mentor and lead internal teams to promote \"infrastructure as code\" and test driven deployments.",
+        "Performance tuning KVM, QEMU, CPU/Disk schedulers for the multi-tenant compute platform."
+      ]
+    },
+    {
+      "organization": "EMC - Rubicon",
+      "position": "Software Senior Principal Engineer",
+      "website": "https://www.emc.com",
+      "startDate": "2013-05-01",
+      "endDate": "2016-04-01",
+      "summary": "Focus on automation and operations of a global exabyte object storage service.",
+      "highlights": [
+        "Software development enabling the remote build and operations of a global object storage platform scaled to over an exabyte of usable capacity encompassing over 20,000 servers.",
+        "Orchestrated automation of rolling upgrades and maintenance activities by analyzing performance and front-end metrics to avoid customer disruption.",
+        "Developed a framework that allowed the orchestration of several configuration management and supporting tools to perform actions based on idempotent and goal dependencies.",
+        "Supporting design, development and testing of the first generation proxy service abstracting a shard based install."
+      ]
+    },
+    {
+      "organization": "Bright House Networks",
+      "position": "Staff Systems Engineer",
+      "website": "https://www.brighthouse.com",
+      "startDate": "2011-06-01",
+      "endDate": "2013-05-01",
+      "highlights": [
+        "Manage geographic redundant Cisco UCS environments utilizing VMware 4.1 and 5.0",
+        "Automated deployment of Oracle 7420 ZFS storage appliances and workload scheduling based on available dTrace metrics.",
+        "Designed, tested and deployed VMware auto-deploy for stateless provisioning enabling automated expansion, hardware replacement and rapid prototyping for new builds.",
+        "Developed API driven virtual machine provisioning with queue management and integration into management tools for approval requests.",
+        "Day to day duties include break fixes, additional monitoring of core infrastructure and assisting internal teams needs and requirements for improving stability and reliability.",
+        "Various internal development projects to assist with the automation of insight and monitoring for the customer cable plant."
+      ]
+    },
+    {
+      "organization": "Sunflower Broadband",
+      "position": "Systems Administrator",
+      "website": "https://www.brighthouse.com",
+      "startDate": "2007-12-01",
+      "endDate": "2011-05-01",
+      "highlights": [
+        "Managed customer facing services for mid-size telecommunications company including customer email, cable modem provisioning, DNS, DHCP and various supporting infrastructure services.",
+        "Consolidated network monitoring systems and reporting engines into a single distributed Zenoss cluster with API integrations into the customer help desk insight platform.",
+        "Engineered distributed multicast Video On Demand barker utilizing VideoLan, Motorola SEM’s, Motorola DAC, and custom built management portal.",
+        "Automated nightly backups of servers and network gear using a custom built python framework with Amazon S3 off site backup integration.",
+        "Automated primary Linux server administration tasks, including setup, installation, OS patching, data backup, user account management and access control."
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Presidents Award",
+      "date": "2014-05-30",
+      "awarder": "EMC",
+      "summary": "Project Beatle delivered a cutting-edge, global public cloud spanning four continents with an unprecedented amount of storage and network capacity.  Our team leveraged technology across the EMC product portfolio creating one of the companies most successful engagements and becoming the largest storage offering in company history."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Systems",
+      "keywords": [
+        "Linux",
+        "Ubuntu",
+        "CentOS",
+        "Kernel",
+        "Scheduler",
+        "Optimizations"
+      ]
+    },
+    {
+      "name": "Culture",
+      "keywords": [
+        "Motivation",
+        "Passion",
+        "Leadership",
+        "Communication",
+        "Honesty"
+      ]
+    },
+    {
+      "name": "/tmp",
+      "keywords": [
+        "Python",
+        "Perl",
+        "Flask",
+        "VMware",
+        "Docker",
+        "SDN - NSX/OpenContrail",
+        "Ceph",
+        "Distributed Systems",
+        "Object Store"
+      ]
+    }
+  ]
+}
