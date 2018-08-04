@@ -50,7 +50,7 @@
       "startDate": "2016-04-01",
       "endDate": "2017-11-01",
       "highlights": [
-        "Design and implement infrastructure as a service platforms based on OpenStack accross multiple sites and regions.",
+        "Design and implement infrastructure as a service platforms based on OpenStack across multiple sites and regions.",
         "Created solutions to rapidly deploy and scale Openstack clouds in response to customer demands.",
         "Architected and integrated a software defined network offering using OpenContrail.",
         "Mentor and lead internal teams to promote \"infrastructure as code\" and test driven deployments.",
@@ -135,7 +135,6 @@
       "name": "/dev/urandom",
       "keywords": [
         "Python",
-        "Perl",
         "Flask",
         "VMware",
         "Docker",
